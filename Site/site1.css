@@ -1,0 +1,45 @@
+body{
+ background-color: #fff1ec;
+ color: #88f;
+}
+
+.p-head{
+    position: relative;
+    overflow: hidden;   
+}
+
+.hole{
+    margin: 7em auto;
+    position: relative;
+    width: 13.86em;
+    /*height: 20em;*/
+}
+
+
+h1{
+ font: 300 15.95em/1 "Butler",sans-serif;
+ text-align: center;
+}
+
+.p-main{
+ overflow: hidden;
+}
+
+.p-content{
+    margin-top: 200px;
+    position: relative;
+    padding: 30px;
+}
+
+.p_title{
+ margin: 0 auto;
+ position: relative;
+ font:300 5.9em/0.853 "Butler",sans-serif;
+ text-align: center;
+ white-space: nowrap;
+}
+
+p{
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
